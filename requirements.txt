@@ -3,3 +3,4 @@ mlconjug3
 docx2txt
 PyPDF2
 setuptools
+PyYAML
