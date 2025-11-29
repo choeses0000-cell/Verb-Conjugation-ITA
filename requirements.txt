@@ -1,0 +1,4 @@
+streamlit
+mlconjug3
+docx2txt
+PyPDF2
